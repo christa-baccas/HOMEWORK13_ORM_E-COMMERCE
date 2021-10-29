@@ -4,7 +4,7 @@
 # ORM - E-Commerce
 
 ## Description: 
- The purpose of this project was build a back end for an e-commerce site with use of CRUD. This includes Express.js API and Sequelize to interact with a MySQL database.
+ The purpose of this project was build a back end for an e-commerce site with use of CRUD. This includes Express.js API and Sequelize to interact with a MySQL database to successfully create, update, and delete data in my database.
 
 
 ## Table of Contents 
