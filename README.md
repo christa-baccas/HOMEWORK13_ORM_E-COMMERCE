@@ -18,10 +18,17 @@
 This is an assignment has no front-end and requires the use of postman or insomnia.
 
 ## Usage 
-Click on each image below to view the videos
-[![Video Category CRUD](./Assets/Category.png)](https://vimeo.com/640204284/ff4d908ec6)
-[![Video Product CRUD](./Assets/Product.png)](https://vimeo.com/user155712349)
-[![Video Tag CRUD](./Assets/Tag.png)](https://vimeo.com/manage/videos/640204834)
+Video showing the database being created, seeded, and server started
+![Video showing the database being created, seeded, and server started](./Assets/1.gif)
+
+Video of the GET method to show all Category, Product, and Tags
+![Video of the GET method to show all Category, Product, and Tags](./Assets/2.gif)
+
+Video of the GET method to show Category, Product, and Tags by ID
+![Video of the GET method to show Category, Product, and Tags by ID](./Assets/3.gif)
+
+Video of the POST, PUT, and DELETE methods
+![Video of the POST, PUT, and DELETE methods](./Assets/4.gif)
 
 
 ## Contributors 
