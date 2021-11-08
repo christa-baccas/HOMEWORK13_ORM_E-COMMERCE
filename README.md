@@ -1,5 +1,5 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-blue)
-# HOMEWORK13_ORM_E-COMMERCE
+# ORM_E-COMMERCE
 
 # ORM - E-Commerce
 
